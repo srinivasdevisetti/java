@@ -1,5 +1,6 @@
 public class main{
 public Static void min(String[] args){
 System.out.println("hello world");
+System.out.println("iam srinivas");
 }
 }
